@@ -1,0 +1,68 @@
+Initial Proximal (R119)Value : 1~255
+
+Initial Distal (R118)Value : 1~255
+
+Asjust Proximal (R119) : 40~255
+
+Asjust Distal (R118)Value : 40~255
+
+Initial value for "dist" (X) : 145~190
+
+Initial value for "doff" : 145~180
+
+Asjust Dist Value(300-X) : 100~200
+
+Initial Poff Value(Xoff) : 1~70
+
+New Poff Value (Ypoff) : 100~200
+
+Calculated Poff(Zdoff=Ypoff-Xdoff) : 95~255
+
+Initial doff Value (Xoff) : 1~100
+
+New doff Value (Yoff) : 120~200
+
+Calculated doff(Zdoff=Ydoff-Xdoff) : 95~255
+
+Temperature Sensor 1 (T1) : 210~310
+
+Temperature Sensor 2 (T2) : 210~310
+
+Avg TubeTemp=(T1+T2)/2 : 210~310
+
+25 PSI Calibration Value : 700~900
+
+Initial AIL Value : 40~200
+
+Adjust AIL Value(at1724+5mbar) : 245~250
+
+Adjust AIL Value(at1000+5mbar) : 227~233
+
+Primedl AIL Value : 190~237
+
+1000mbar Primed AIL Value : 190~237
+
+Empty Tube AIL Value : 40~128
+
+Fsc Without Slide Clamp : 0~20
+
+Bsc Without Slide Clamp : 0~20
+
+Fsc With Slide Clamp : 231~255
+
+Bsc With Slide Clamp : 231~255
+
+Manual Release Switch Jaws Fully open : 0
+
+Manual Release Switch Jaws Fully close : 1
+
+Presure Gauge Reading Trial 1 (P1) : 547~1129
+
+Presure Gauge Reading Trial 2 (P2) : 547~1129
+
+Presure Gauge Reading Trial 3 (P3) : 547~1129
+
+Paverage=(P1+P2+P3)/3 : Cal.
+
+NewSlope=[(Pavg*0.0145)+1.8/12)*100] : Cal.
+
